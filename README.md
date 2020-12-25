@@ -5,5 +5,5 @@ Operations:
           2 ./todo ls               # Show remaining todos
           3 ./todo del NUMBER       # Delete a todo
           4 ./todo done NUMBER      # Complete a todo
-          5 ./todo help             # Show usage
-          6 ./todo report           # Statistics`;
+          5 ./todo help             # Shows what can be done
+          6 ./todo report           # Statistics
