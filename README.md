@@ -1,9 +1,9 @@
 # todo-using-CLI
 A simple javascript program to create a todo list and storing it in a file using Command Line Interface.
 Operations:
-          ./todo add "todo item"  # Add a new todo
-          ./todo ls               # Show remaining todos
-          ./todo del NUMBER       # Delete a todo
-          ./todo done NUMBER      # Complete a todo
-          ./todo help             # Show usage
-          ./todo report           # Statistics`;
+          1 ./todo add "todo item"  # Add a new todo
+          2 ./todo ls               # Show remaining todos
+          3 ./todo del NUMBER       # Delete a todo
+          4 ./todo done NUMBER      # Complete a todo
+          5 ./todo help             # Show usage
+          6 ./todo report           # Statistics`;
